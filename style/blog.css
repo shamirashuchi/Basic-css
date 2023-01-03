@@ -1,0 +1,51 @@
+.header{
+    height:200px;
+    /* background-image: url('i.jpeg'); */
+    /* background-image: url('../B.jpg'); */
+    /* background-image: url('../image/home.jpg'); */
+    background-image:url('../image/m.webp');
+    color:white;
+    /* background-size:5%; */
+    /* background-size:contain; */
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;;
+    /* background-repeat:repeat-x;
+    background-repeat:repeat-y; */
+    /* background-position:right; */
+    /* background-position:top right ;
+    background-position: bottom right; */
+
+}
+    h3{
+    color:magenta;
+    /* text-decoration:underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: overline wavy green; */
+    text-decoration: overline  green;
+}
+p{
+    color:blueviolet;
+}
+.page-title{
+    font-weight:900;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+a{
+    text-decoration:none;
+}
+span{
+    border:1px solid purple;
+    height:200px;
+    width:100px;
+    margin-left:50px;
+    /* display:inline; */
+    /* display:block; */
+    display:none;
+
+}
+.blog{
+    background-color:peru;
+    box-shadow:10px 10px 10px gray;
+    margin-bottom:100px;
+}
